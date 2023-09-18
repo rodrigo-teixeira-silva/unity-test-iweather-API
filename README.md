@@ -25,8 +25,6 @@ Aplicação utilizando expo, com api para criar testes de unidade.
 - [Google cloud](https://console.cloud.google.com/welcome?hl=pt-br&project=ignitefleet-395716)
 - [Expo AuthSession](https://docs.expo.dev/versions/latest/sdk/auth-session/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjw29ymBhAKEiwAHJbJ8pY-Lk3ABjSLBFqMuV7A63VxK-6VDFHeUv57EdQlDdf435jvOsBg3xoC3_QQAvD_BwE)
 - [Expo WebBrowser](https://docs.expo.dev/versions/latest/sdk/webbrowser/)
-- [MongoDB Atlas](https://www.mongodb.com/atlas/database)
-- [Realm DB](https://www.mongodb.com/docs/realm/sdk/react-native/install/)
 - [NPM](https://docs.npmjs.com)
 - [Phosphoricons](https://phosphoricons.com/)
 - [Svg](https://docs.expo.dev/versions/latest/sdk/svg/)
@@ -39,7 +37,7 @@ Aplicação utilizando expo, com api para criar testes de unidade.
 - [NetInfo](https://docs.expo.dev/versions/latest/sdk/netinfo/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwr_CnBhA0EiwAci5siu9brkVaSLxWFq5rnDPmU35J5cu2PyAD4gqF6pcpPFaIYK_mXWL_1RoCi6QQAvD_BwE)
 - [AsyncStorage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
 
-# Funcionalidades do projet
+# Funcionalidades do projeto
 
 - [x] Tela principal
 
@@ -65,7 +63,7 @@ Pré-requisitos: npm
 
 Rodrigo Teixeira Silva
 
-<img style = "width:200px" src="https://www.linkedin.com/in/rodrigo-teixeira-silva/.png" alt="Imagem desenvolvedor" >
+<img style = "width:200px" src="https://www.linkedin.com/in/rodrigo-teixeira-silva.png" alt="Imagem desenvolvedor" >
 
 ## [Linkedin](https://www.linkedin.com/in/rodrigo-teixeira-silva/)
 
