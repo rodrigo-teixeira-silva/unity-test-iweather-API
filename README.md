@@ -9,11 +9,11 @@ Aplicação utilizando expo, com api para criar testes de unidade.
 
  **</>Codelink**.
 
-Aplicação utilizando expo, com api para criar testes de unidade.
+Aplicação de previsão do tempo 
 
 ## Layout mobile
 
-<img src="./assets/home.png" width="350px" height="700px"/>
+<img src="./asset/Aplicação" width="350px" height="700px"/>
 
 # Tecnologias utilizadas
 ## Aplicação
