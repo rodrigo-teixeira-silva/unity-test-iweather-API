@@ -13,7 +13,7 @@ Aplicação de previsão do tempo
 
 ## Layout mobile
 
-<img src="./asset/Aplicação" width="350px" height="700px"/>
+<img src="./asset/Aplicação.gif" width="350px" height="700px"/>
 
 # Tecnologias utilizadas
 ## Aplicação
