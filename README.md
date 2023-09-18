@@ -10,7 +10,6 @@ Aplicação utilizando expo, com api para criar testes de unidade.
 
  **</>Codelink**.
 
-Aplicação de previsão do tempo 
 
 ## Layout mobile
 
