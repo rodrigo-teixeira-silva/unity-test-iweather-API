@@ -37,6 +37,7 @@ Aplicação utilizando expo, com api para criar testes de unidade.
 ## __Test__
 - [jest](https://jestjs.io/pt-BR/)
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
+- [Async Storage - Jest integration](https://react-native-async-storage.github.io/async-storage/docs/advanced/jest)
 
 # Funcionalidades do projeto
 
