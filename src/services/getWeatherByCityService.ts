@@ -87,5 +87,7 @@ export async function getWeatherByCityService({ latitude, longitude }: SearchCit
     }
   });
 
+  console.log(today, nextDays);
+  
   return { today, nextDays }
 }
