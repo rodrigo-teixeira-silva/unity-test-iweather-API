@@ -4,9 +4,9 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rodrigo-teixeira-silva/unity-test-iweather/blob/main/LICENSE)
 
 # Sobre o projeto
-## Aplicação de previsão do tempo 
+## Aplicação de previsão do tempo
 
-Aplicação utilizando expo, com api para criar testes de unidade.
+Criação de uma A aplicação Meteorologia disponibiliza informação atualizada sobre condiçõed como temperatura, chuva, neve e vento. Veja a previsão de hora em hora dos próximos dez dias. E criação de testes de unidade, componentes, mocks, hooks, cobertura de codigo e teste de integração.
 
  **</>Codelink**.
 
