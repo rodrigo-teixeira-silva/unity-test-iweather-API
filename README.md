@@ -1,4 +1,4 @@
-## 💻 Projeto
++## 💻 Projeto
 
 # Unity-test-iweather
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rodrigo-teixeira-silva/unity-test-iweather/blob/main/LICENSE)
@@ -34,6 +34,7 @@ Criação de uma A aplicação Meteorologia disponibiliza informação atualizad
 - [NetInfo](https://docs.expo.dev/versions/latest/sdk/netinfo/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwr_CnBhA0EiwAci5siu9brkVaSLxWFq5rnDPmU35J5cu2PyAD4gqF6pcpPFaIYK_mXWL_1RoCi6QQAvD_BwE)
 - [AsyncStorage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
 - [jest](https://jestjs.io/pt-BR/)
+- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context)
 
 # Funcionalidades do projeto
 
