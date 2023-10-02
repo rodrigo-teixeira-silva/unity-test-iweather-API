@@ -6,10 +6,9 @@
 # Sobre o projeto
 ## Aplicação de previsão do tempo
 
-Criação de uma A aplicação Meteorologia disponibiliza informação atualizada sobre condiçõed como temperatura, chuva, neve e vento. Veja a previsão de hora em hora dos próximos dez dias. E criação de testes de unidade, componentes, mocks, hooks, cobertura de codigo e teste de integração.
+Criação de uma A aplicação Meteorologia disponibiliza informação atualizada sobre condiçõed como temperatura, chuva, neve e vento. Veja a previsão de hora em hora dos próximos dias. E criação de testes de unidade, componentes, mocks, hooks, routes,cobertura de codigo e teste de integração.
 
  **</>Codelink**.
-
 
 ## Layout mobile
 
@@ -33,12 +32,15 @@ Criação de uma A aplicação Meteorologia disponibiliza informação atualizad
 - [react-native-keyboard-aware-scroll-view](https://www.npmjs.com/package/react-native-keyboard-aware-scroll-view)
 - [NetInfo](https://docs.expo.dev/versions/latest/sdk/netinfo/?tm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwr_CnBhA0EiwAci5siu9brkVaSLxWFq5rnDPmU35J5cu2PyAD4gqF6pcpPFaIYK_mXWL_1RoCi6QQAvD_BwE)
 - [AsyncStorage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
+
+##Test
+
 - [jest](https://jestjs.io/pt-BR/)
 - [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context)
 
 # Funcionalidades do projeto
 
-- [x] Tela principal
+[x] Tela principal
 
 # Como executar o projeto
 
@@ -56,7 +58,11 @@ npm install
 npx expo start
 ```
 ## Aplicação Mobile
-Pré-requisitos: npm 
+
+Pré-requisitos: 
+- npm
+- node
+- expo 
 
 # Autor
 
