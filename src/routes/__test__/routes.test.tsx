@@ -25,7 +25,6 @@ describe("routes", () => {
 
     await saveStorageCity(city);
 
-
     await act(() => waitFor(() => render(<Routes/>)));
       
     const title = screen.getByText(city.name);

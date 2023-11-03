@@ -14,6 +14,10 @@ Criação de uma A aplicação Meteorologia disponibiliza informação atualizad
 
 <img src="./assets/Aplicação.gif" width="700px" height="700px"/>
 
+## Resultado de cobertura dos testes
+
+<img src="./assets/Coverange/relatório de cobertura de testes.png">
+
 # Tecnologias utilizadas
 ## Aplicação
 
@@ -33,14 +37,30 @@ Criação de uma A aplicação Meteorologia disponibiliza informação atualizad
 - [NetInfo](https://docs.expo.dev/versions/latest/sdk/netinfo/?tm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwr_CnBhA0EiwAci5siu9brkVaSLxWFq5rnDPmU35J5cu2PyAD4gqF6pcpPFaIYK_mXWL_1RoCi6QQAvD_BwE)
 - [AsyncStorage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
 
-##Test
+## Test
 
 - [jest](https://jestjs.io/pt-BR/)
 - [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context)
 
-# Funcionalidades do projeto
+# Funcionalidades testadas
 
-[x] Tela principal
+
+- [x] Day
+- [x] Input
+- [x] Loading
+- [x] NextDays
+- [x] SelectList
+- [x] WeatherDetails
+- [x] WeatherToday
+- [x] contexts
+- [x] hooks
+- [x] asyncStorage
+- [x] routes
+- [x] Dashboards
+- [x] Search
+- [x] services
+- [x] styles
+- [x] utils 
 
 # Como executar o projeto
 
@@ -56,6 +76,16 @@ npm install
 
 # executar o projeto.
 npx expo start
+``` 
+
+# Como executar os testes
+```bash
+
+# executar todos os testes.
+npm test 
+
+# gerar o relatorio de teste 
+npm run test:coverenge 
 ```
 ## Aplicação Mobile
 
