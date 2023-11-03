@@ -10,6 +10,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
+    
   },
   "dependencies": {
     "@expo-google-fonts/nunito": "^0.2.3",
