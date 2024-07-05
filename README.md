@@ -6,7 +6,7 @@
 # Sobre o projeto
 ## Aplicação de previsão do tempo
 
-Criação de uma A aplicação Meteorologia disponibiliza informação atualizada sobre condiçõed como temperatura, chuva, neve e vento. Veja a previsão de hora em hora dos próximos dias. E criação de testes de unidade, componentes, mocks, hooks, routes,cobertura de codigo e teste de integração e cobertura de código com report.
+Criação de uma A aplicação Meteorologia disponibiliza informação atualizada sobre condições como temperatura, chuva, neve e vento. Veja a previsão de hora em hora dos próximos dias. E criação de testes de unidade, componentes, mocks, hooks, routes,cobertura de codigo e teste de integração e cobertura de código com report. criação de testes de unidade e mocks de funcionalidades
 
  **</>Codelink**.
 
@@ -60,7 +60,8 @@ Criação de uma A aplicação Meteorologia disponibiliza informação atualizad
 - [x] Search
 - [x] services
 - [x] styles
-- [x] utils 
+- [x] utils
+- [x] jest 
 
 # Como executar o projeto
 
